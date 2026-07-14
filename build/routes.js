@@ -16384,7 +16384,8 @@ export default {
           "hyoban"
         ],
         "categories": [
-          "social-media"
+          "social-media",
+          "popular"
         ],
         "view": 3,
         "example": "/bilibili/ranking/all",
@@ -54954,8 +54955,7 @@ export default {
       "/:section?/:type?/:user?": {
         "path": "/:section?/:type?/:user?",
         "categories": [
-          "programming",
-          "popular"
+          "programming"
         ],
         "view": 0,
         "example": "/hackernews/threads/comments_list/dang",
